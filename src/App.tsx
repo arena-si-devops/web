@@ -21,9 +21,9 @@ function App() {
         </p>
         <p>
           Services
-          <li>xxx</li>
-          <li>xxx</li>
-          <li>xxx</li>
+          <li>DevOps Consulting</li>
+          <li>Infrastructure Implementation Services</li>
+          <li>Managed Pipeline Solutions</li>
 
         </p>
         <p>
@@ -34,7 +34,7 @@ function App() {
         </p> */}
       </div>
       <p className="read-the-docs">
-        Enter a tag line here for the company
+        Our focus is to offer best in class DevOps as a Service to accelerate your software development and maximize ROI.
       </p>
     </>
   )

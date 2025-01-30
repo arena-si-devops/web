@@ -17,14 +17,15 @@ function App() {
           count is {count}
         </button> */}
         <p>
-          About Us
+          <h2>About Us</h2>
         </p>
         <p>
-          Services
-          <li>DevOps Consulting</li>
-          <li>Infrastructure Implementation Services</li>
-          <li>Managed Pipeline Solutions</li>
-
+          <h2>Services</h2>
+          <ul>
+            <li>DevOps Consulting</li>
+            <li>Infrastructure Implementation Services</li>
+            <li>Managed Pipeline Solutions</li>
+          </ul>
         </p>
         <p>
           Contact 

@@ -35,6 +35,21 @@ h1 {
   line-height: 1.1;
 }
 
+h2 {
+  color: #333;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: left; /* Ensure bullets are aligned to the left */
+}
+ul li {
+  background: #f4f4f4;
+  margin: 5px 0;
+  padding: 10px;
+  border-left: #77aaff 5px solid;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;

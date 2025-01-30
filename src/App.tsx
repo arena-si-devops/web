@@ -28,7 +28,7 @@ function App() {
           </ul>
         </p>
         <p>
-          Contact 
+          <h2>Contact</h2> 
         </p>
         {/* <p>
           Edit <code>src/App.tsx</code> and save to test HMR

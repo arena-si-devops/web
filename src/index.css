@@ -44,10 +44,10 @@ ul {
   text-align: left; /* Ensure bullets are aligned to the left */
 }
 ul li {
-  background: #f4f4f4;
+  /* background: #f4f4f4; */
   margin: 5px 0;
   padding: 10px;
-  border-left: #77aaff 5px solid;
+  /* border-left: #77aaff 5px solid; */
 }
 
 button {

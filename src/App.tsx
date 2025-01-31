@@ -1,4 +1,4 @@
-// import ArenaSiDevOpsLogo from '/companylogo.svg'
+import ArenaSiDevOpsLogo from '/src/assets/logo.jpg'
 import './App.css'
 
 function App() {
@@ -6,11 +6,11 @@ function App() {
 
   return (
     <>
-      {/* <div>
+      <div>
         {<a href="https://react.dev" target="_blank">
-          <img src={ArenaSiDevOpsLogo} className="logo arenasidevops" alt="Arena Si DevOps LLC logo" />
+          <img src={ArenaSiDevOpsLogo} className="logo" alt="Arena Si DevOps LLC logo" />
         </a> }
-      </div> */}
+      </div>
       <h1>Arena Si DevOps LLC</h1>
       <div className="card">
         {/* <button onClick={() => setCount((count) => count + 1)}>

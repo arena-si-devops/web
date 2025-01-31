@@ -8,8 +8,8 @@ function App() {
     <>
       <div>
         {<a href="https://arena-si-devops.github.io/web/" target="_blank">
-          <img src={ArenaSiDevOpsLogo} className="logo" alt="Arena Si DevOps LLC logo" />
-        </a> }
+          <img src={ArenaSiDevOpsLogo} className="logo" alt="Arena Si DevOps LLC logo" style={{ width: '100px', float: 'left', marginRight: '20px' }} />
+        </a>}
       </div>
       <h1>Arena Si DevOps LLC</h1>
       <div className="card">

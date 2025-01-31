@@ -8,21 +8,27 @@ function App() {
     <>
       <div>
         {<a href="https://arena-si-devops.github.io/web/" target="_blank">
-          <img src={ArenaSiDevOpsLogo} className="logo" alt="Arena Si DevOps LLC logo" style={{ width: '200px', height: '200px', float: 'left', marginRight: '20px' }} />
+          <img src={ArenaSiDevOpsLogo} className="logo" alt="Arena Si DevOps LLC logo" style={{ width: '200px', height: '200px', float: 'left', marginRight: '10px' }} />
         </a>}
       </div>
       <h1>Arena Si DevOps LLC</h1>
       <div className="card">
-        {/* <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button> */}
         <p>
-          <h2></h2>
+          <h2>xxx</h2>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
         </p>
         <p>
-          <h2></h2>
+          <h2>xxx</h2>
+          <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
         </p>
-
         <p>
           <h2>About Us</h2>
         </p>

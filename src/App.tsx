@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        {<a href="https://react.dev" target="_blank">
+        {<a href="https://arena-si-devops.github.io/web/" target="_blank">
           <img src={ArenaSiDevOpsLogo} className="logo" alt="Arena Si DevOps LLC logo" />
         </a> }
       </div>

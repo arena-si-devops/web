@@ -14,21 +14,21 @@ function App() {
       <h1>Arena Si DevOps LLC</h1>
       <div className="card">
         <p>
-          <h2>xxx</h2>
+          <h2></h2>
           <ul>
             <li></li>
             <li></li>
             <li></li>
           </ul>
         </p>
-        <p>
-          <h2>xxx</h2>
+        {/* <p>
+          <h2></h2>
           <ul>
             <li></li>
             <li></li>
             <li></li>
           </ul>
-        </p>
+        </p> */}
         <p>
           <h2>About Us</h2>
         </p>
